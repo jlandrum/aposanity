@@ -1,0 +1,21 @@
+{
+  "name": "aposanity",
+  "version": "1.0.0",
+  "description": "A series of tools to help manage Apostrophe servers",
+  "main": "index.js",
+  "bin": {
+    "aposanity": "index.mts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/command-line-args": "^5.2.0",
+    "@types/node": "^18.11.19",
+    "chalk": "^5.2.0",
+    "chalk-template": "^0.5.0",
+    "command-line-args": "^5.2.1"
+  }
+}
