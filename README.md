@@ -3,6 +3,15 @@ The missing Apostrophe 2 toolset
 
 You will need to have bun installed.
 
+## Commands
+| Command | Description                                             |
+|---------|---------------------------------------------------------|
+| help    | Shows this help; use --help to get help for any command.|
+| init    | Creates an empty .aposanity.json file.                  |
+| info    | Displays the available sites.                           |
+| pulldb  | Fetches the database for a given site.                  |
+| pushdb  | Write the database from a given site to another site.   |
+  
 ## .aposanity.json
 Sites are configured either using local .aposanity files or a global one stored
 in your user directory.
