@@ -1,5 +1,5 @@
 # Aposanity
-The missing Apostrophe 2 toolset
+The missing Apostrophe toolset
 
 You will need to have bun installed.
 
